@@ -1,7 +1,6 @@
 {
     "name": "template-basic-package",
     "version": "1.0.0",
-    "main": "./src/index.ts",
     "author": "Roberto Ríos <contact@rrios.dev>",
     "license": "MIT",
     "files": ["index.js"],
